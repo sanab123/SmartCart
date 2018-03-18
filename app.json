@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "splash": {
+      "image": "media/IMG_3461.jpg",
+      "resizeMode": "cover"
+   
+    }
+  }
+}
+
+
